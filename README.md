@@ -16,7 +16,7 @@ I'm Nhat Quang from Australia. As a Data Science Major at SP Jain School of Glob
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bnhquang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bnhquang" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@bnhquang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@bnhquang" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/bnhquang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@bnhquang" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bnhquang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bnhquang" height="30" width="40" /></a>
 </p>
 
