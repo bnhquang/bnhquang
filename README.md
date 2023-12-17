@@ -9,7 +9,7 @@ I'm Nhat Quang from Australia. As a Data Science Major at SP Jain School of Glob
 
 - 📑 I’m currently doing coursework on **Mathematics, Statistics, Computer Programming, Database**
 
-- 👨‍💻 All of my projects are available at [https://github.com/bnhquang?tab=projects](https://github.com/bnhquang?tab=projects)
+- 👨‍💻 All of my projects are available at [https://github.com/bnhquang?tab=repositories]([https://github.com/bnhquang?tab=projects](https://github.com/bnhquang?tab=repositories))
 
 - 📫 How to reach me **bnhquang127@gmail.com**
 
