@@ -2,7 +2,7 @@
 <h3 align="left">A Software Engineer with a Passion for Creating Impactful Tech Solutions</h3>
 
 - 🔭 I’m currently working on Grameen Hackathon as a Software Developer, focusing on **developing web applications for financial inclusivity and emotional well-being**.
-View the project [here](https://github.com/bnhquang/grameen-hackathon-2024) that **GET OUR TEAM A HIGHLY SELECTIVE TICKET INTO THE FINAL ROUND OF THE HACKATHON!**
+View the project [here](https://github.com/bnhquang/grameen-hackathon-2024) that **GETS OUR TEAM A HIGHLY SELECTIVE TICKET INTO THE FINAL ROUND OF THE HACKATHON!**
 
 - 🔭 In my role as a Software Developer at Australscience, I am responsible for integrating new features into the company's current website.  At the moment I'm developing an eye-tracking system to be tested at S P Jain Neuroscience Laboratory, Sydney and potentially for future production use. Previously, I successfully built and integrated the feature of Real-Time Facial Emotion Analysis into the website.
 View the project [here](https://github.com/bnhquang/grameen-hackathon-2024).
