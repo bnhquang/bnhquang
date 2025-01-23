@@ -1,24 +1,17 @@
 <h1 align="left">Hello World 👋, I'm Andy</h1>
 <h3 align="left">A Software Engineer with a Passion for Creating Impactful Tech Solutions</h3>
 
-- 🔭 I’m currently working on Grameen Hackathon as a Software Developer, focusing on **developing web applications for financial inclusivity and emotional well-being**.
-View the project [here](https://github.com/bnhquang/grameen-hackathon-2024) that **GETS OUR TEAM A HIGHLY SELECTIVE TICKET INTO THE FINAL ROUND OF THE HACKATHON!**
+- I’m currently working on my startup Neurofy, a web application of Australscience company running on NextJS by integrating multi-modal emotion analysis that helps advertisement creator automate their advertisement testing.
 
-- 🔭 In my role as a Software Developer at Australscience, I am responsible for integrating new features into the company's current website.  At the moment I'm developing an eye-tracking system to be tested at S P Jain Neuroscience Laboratory, Sydney and potentially for future production use. Previously, I successfully built and integrated the feature of Real-Time Facial Emotion Analysis into the website.
-View the project [here](https://github.com/bnhquang/grameen-hackathon-2024).
+- I also working on my startup VisionX, a self-study tool designed specifically for the visually impaired. This product is my submission to Microsoft Imagine Cup 2025 - a Global Student AI Startup Competition.
 
-- 🌱 I’m on a continuous learning path, focusing on **Advanced Software Development Practices, Data Structure and Algorithms, and Full-Stack Development**.
+- All of my projects are available at [https://github.com/bnhquang?tab=repositories](https://github.com/bnhquang?tab=repositories)
 
-- 📑 I’m currently doing coursework on **Linear Algebra, Statistics and Calculus**
-
-- 👨‍💻 All of my projects are available at [https://github.com/bnhquang?tab=repositories](https://github.com/bnhquang?tab=repositories)
-
-- 📫 How to reach me **bnhquang127@gmail.com**
+- Reach me **bnhquang127@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bnhquang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bnhquang" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/bnhquang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@bnhquang" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bnhquang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bnhquang" height="30" width="40" /></a>
 </p>
 
